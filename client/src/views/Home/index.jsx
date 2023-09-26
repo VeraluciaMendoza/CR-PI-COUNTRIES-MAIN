@@ -62,6 +62,12 @@ const Home = ({ filterCountries, getCountriesByName, getCountries, orderCountrie
             CREAR ACTIVIDAD
           </button>
         </Link>
+
+        {/* <Link to='/upload'>
+          <button>
+          SUBIR IMAGEN
+          </button>
+        </Link> */}
       </NavbarHome>
       
       <ContainerFilters>
